@@ -122,11 +122,11 @@ analytics:
 # PROFILE
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Vanesa Lomas García"
   avatar           : "/assets/images/profile.jpg"
-  bio              : "Site for my documentation"
-  location         : "Location"
-  email            :
+  bio              : "Site for my master's thesis"
+  location         : "Ciudad Real"
+  email            : "vanesa_lomas@hotmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
