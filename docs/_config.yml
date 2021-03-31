@@ -126,11 +126,11 @@ author:
   avatar           : "/assets/images/profile.jpg"
   bio              : "Site for my master's thesis"
   location         : "Ciudad Real"
-  email            : "vanesa_lomas@hotmail.com"
+  email            : ""
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: yourmail@domain.com
+      url: vanesa_lomas@hotmail.com
     - label: "About Me"
       icon: "fas fa-fw fa-link"
       url: "yoursite.com"
@@ -139,7 +139,7 @@ author:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/RoboticsLabURJC"
+      url: "https://github.com/VanesaLomas"
     #- label: "Youtube"
     #  icon: "fab fa-fw fa-youtube"
     #  url: "https://www.youtube.com/channel/UCgmUgpircYAv_QhLQziHJOQ"
