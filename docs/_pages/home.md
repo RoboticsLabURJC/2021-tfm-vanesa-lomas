@@ -40,12 +40,4 @@ youTube_id: ID7qaEcIu4k
 
 Hello, everybody.
 
-You can write an introduction about the work you are going to do, links, something about yourself, etc.
-
-In the `README.md` file at the root of the project are the steps to replicate the Minimal mistakes template on your local machine. This way you don't need to upload it to GitHub to be represented until it's ready.
-
-Uploading content to GitHub automatically displays your documentation in the link with a structure of the type:
-
-```
-https://github_user_name.github.io/repository_name/
-```
+I'm Vanesa Lomas, a master's degree student in Artificial Vision at the Rey Juan Carlos University. In this blog I will be posting the progress I make during the development of my master's thesis. 
