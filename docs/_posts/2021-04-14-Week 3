@@ -1,0 +1,8 @@
+---
+
+title: "Week 3"
+excerpt: ""
+
+---
+
+This week I have started another exercise from Robotics-Academy: [Cat And Mouse Exercise](http://jderobot.github.io/RoboticsAcademy/exercises/Drones/drone_cat_mouse). This exercise involves 2 drones: one acts as the mouse(the red one) and the other acts as the cat(the black one). The mouse moves randomly and the goal of this exercise is to program the logic/intelligence of the cat: the cat has to search, chase and stay close to the mouse. 
